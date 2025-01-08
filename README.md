@@ -1,5 +1,11 @@
 # Ultimate Rust Crash Course
 
+## About
+
+This project is a fork of [ultimate_rust_crash_course](https://github.com/CleanCut/ultimate_rust_crash_course) by Nathan Stocks, licensed under the MIT License. Modifications and additions are my own work.
+
+Modifications were made to the exercises directory according to the class exercise instructions!
+
 This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
 live at O'Reilly virtual events, or in person.  You will get the most out of this training 
 experience by trying to accomplish the [exercises] in this repository and watching (or attending)
